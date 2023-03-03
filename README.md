@@ -6,16 +6,12 @@ Desafio-Back-end-Cubos-Final
 
 Este projeto se trata de um desafio da Cubos Academy que envolve a construção de uma API REST, em Node.js com banco de dados Postgres.
 
-## Installation
+## Instalação
 
 1. Clonar este repositorio no VSCode: `git clone git@github.com:yurifrancoc/API-financas-pessoais.git`
 2. Navegar até o diretório: `cd API-financas-pessoais`
 3. Instalar bibliotecas/dependencias: `npm install`
 4. Run the project: `npm init`
-
-## How to Use
-
-To use the API, simply send HTTP requests to the available endpoints.
 
 ### Endpoints
 
@@ -45,25 +41,7 @@ Aqui estão apresentadas as rotas e suas respectivas funções:
 
 As requisições devem ser enviadas a partir de algum framework para desenvolvimento de testes de API, tal como: Postman e Insomnia.
 
-
-## Contributing
-
-We welcome contributions to this project! To contribute, follow these steps:
-
-1. Fork this repository
-2. Create a branch with your feature: `git checkout -b my-feature`
-3. Commit your changes: `git commit -m 'My new feature'`
-4. Push to the branch: `git push origin my-feature`
-5. Open a Pull Request
-
 ## Idealizadores do Projeto
-
-Yuri Franco (github: https://github.com/yurifrancoc) e Alexandre Pacheco (github: https://github.com/Alexandrekpr)
-
-
-Alexandre Pacheco
-
-
 
 | [<img src="https://avatars.githubusercontent.com/u/112022201?v=4" width=115><br><sub>Yuri Franco</sub>](https://github.com/yurifrancoc) | 
 [<img src="https://avatars.githubusercontent.com/u/112038333?v=4" width=115><br><sub>Alexandre Pacheco</sub>](https://github.com/Alexandrekpr) | 
