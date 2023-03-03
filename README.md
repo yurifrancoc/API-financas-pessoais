@@ -42,7 +42,7 @@ Aqui estão apresentadas as rotas e suas respectivas funções:
 
 ![image](https://user-images.githubusercontent.com/112022201/222852710-6286590f-9e69-4746-95bb-d2be91613859.png)
 
-- 'GET '/transacao': Retorna a lista de transações realizadas pelo usuario a partir do envio do token equivalente ao usuário.
+- `GET '/transacao`: Retorna a lista de transações realizadas pelo usuario a partir do envio do token equivalente ao usuário.
 
 ![image](https://user-images.githubusercontent.com/112022201/222852757-e86c615b-05c4-4aae-aeb9-f42729e13890.png)
 
@@ -52,12 +52,15 @@ Aqui estão apresentadas as rotas e suas respectivas funções:
 
 - `GET '/transacao/:id`: Retorna detalhes da transação para o usuário a partir do envio de seu 'id' como parâmetro de rota do endpoint e envio do token equivalente ao usuário.
 
-![image](https://user-images.githubusercontent.com/112022201/222852998-0b4a94b6-9fa5-4597-a166-24794eb826db.png)
+![image](https://user-images.githubusercontent.com/112022201/222853314-9751d8fd-f307-417f-9452-81ddf731aeb9.png)
 
-- `PUT '/transacao/:id`: Atualiza informações da transação a partir do preenchimento do campo body (nome, email e senha) e envio do 'id' como parâmetro de rota do endpoint e envio do token equivalente ao usuário.
+- `PUT '/transacao/:id`: Atualiza informações da transação a partir do preenchimento do campo body e envio do 'id' como parâmetro de rota do endpoint e envio do token equivalente ao usuário.
 
+![image](https://user-images.githubusercontent.com/112022201/222853451-e8f00e30-f4af-4235-aba8-4211bdcaa4cc.png)
 
-- 'DELETE '/transacao/:id': Exclui uma transação cadastrada para o usuário logado, a partir do 'id' enviado como parâmetro de rota e envio do token equivalente ao usuário.
+- `DELETE '/transacao/:id`: Exclui uma transação cadastrada para o usuário logado, a partir do 'id' enviado como parâmetro de rota e envio do token equivalente ao usuário.
+
+![image](https://user-images.githubusercontent.com/112022201/222853574-851f9823-2c2a-449a-be47-bf4731beffb9.png)
 
 ## Como testar
 
