@@ -1,6 +1,6 @@
 # API de Finanças Pessoais
 
-Desafio-Back-end-Cubos-Final
+Desafio-Back-end-Cubos-Modulo-3
 
 ## Descrição
 
