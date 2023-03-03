@@ -39,6 +39,8 @@ Aqui estão apresentadas as rotas e suas respectivas funções:
 
 - 'DELETE '/transacao/:id': Exclui uma transação cadastrada para o usuário logado, a partir do 'id' enviado como parâmetro de rota e envio do token equivalente ao usuário.
 
+## Como testar
+
 As requisições devem ser enviadas a partir de algum framework para desenvolvimento de testes de API, tal como: Postman e Insomnia.
 
 ## Idealizadores do Projeto
@@ -49,3 +51,7 @@ As requisições devem ser enviadas a partir de algum framework para desenvolvim
 
 [<img src="https://avatars.githubusercontent.com/u/112038333?v=4" width=115><br><sub>Alexandre Pacheco</sub>](https://github.com/Alexandrekpr)
 
+
+
+
+![image](https://user-images.githubusercontent.com/112022201/222851832-b58683da-9592-474e-b1bd-91c49f187e83.png)
