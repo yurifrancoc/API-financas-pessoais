@@ -44,6 +44,8 @@ As requisições devem ser enviadas a partir de algum framework para desenvolvim
 ## Idealizadores do Projeto
 
 | [<img src="https://avatars.githubusercontent.com/u/112022201?v=4" width=115><br><sub>Yuri Franco</sub>](https://github.com/yurifrancoc) | 
-[<img src="https://avatars.githubusercontent.com/u/112038333?v=4" width=115><br><sub>Alexandre Pacheco</sub>](https://github.com/Alexandrekpr) | 
-| :---------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+
+
+
+[<img src="https://avatars.githubusercontent.com/u/112038333?v=4" width=115><br><sub>Alexandre Pacheco</sub>](https://github.com/Alexandrekpr) |
 
